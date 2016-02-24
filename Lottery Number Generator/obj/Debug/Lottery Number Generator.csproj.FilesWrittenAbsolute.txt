@@ -1,0 +1,8 @@
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/obj/Debug/Lottery_Number_Generator.Form1.resources
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/obj/Debug/Lottery_Number_Generator.Properties.Resources.resources
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/bin/Debug/Lottery Number Generator.exe.config
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/bin/Debug/Lottery Number Generator.exe.mdb
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/bin/Debug/Lottery Number Generator.exe
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/obj/Debug/Lottery Number Generator.exe
+/Volumes/ATTACHE/Lottery Number Generator/Lottery Number Generator/obj/Debug/Lottery Number Generator.exe.mdb

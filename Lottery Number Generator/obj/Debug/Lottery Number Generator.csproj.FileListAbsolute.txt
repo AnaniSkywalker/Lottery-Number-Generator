@@ -1,0 +1,18 @@
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\bin\Debug\Lottery Number Generator.exe.config
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\bin\Debug\Lottery Number Generator.exe
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\bin\Debug\Lottery Number Generator.pdb
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.csprojResolveAssemblyReference.cache
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery_Number_Generator.Form1.resources
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery_Number_Generator.Properties.Resources.resources
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.csproj.GenerateResource.Cache
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.exe
+C:\Users\assoutovia1\Desktop\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.pdb
+E:\Lottery Number Generator\Lottery Number Generator\bin\Debug\Lottery Number Generator.exe.config
+E:\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.exe
+E:\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.pdb
+E:\Lottery Number Generator\Lottery Number Generator\bin\Debug\Lottery Number Generator.exe
+E:\Lottery Number Generator\Lottery Number Generator\bin\Debug\Lottery Number Generator.pdb
+E:\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.csprojResolveAssemblyReference.cache
+E:\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery_Number_Generator.Form1.resources
+E:\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery_Number_Generator.Properties.Resources.resources
+E:\Lottery Number Generator\Lottery Number Generator\obj\Debug\Lottery Number Generator.csproj.GenerateResource.Cache
