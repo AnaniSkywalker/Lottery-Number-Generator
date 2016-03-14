@@ -3,6 +3,7 @@ namespace Lottery_Number_Generator
 {
     partial class Form1
     {
+		// Hello I am Shadow Walker
         /// <summary>
         /// Required designer variable.
         /// </summary>
